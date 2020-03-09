@@ -1,2 +1,2 @@
-# token
+# Token
 Discord token checker 
